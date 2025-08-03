@@ -696,7 +696,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/20158/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/31656/index.m3u8
 #EXTINF:0 group-title="4K" tvg-id="9303" tvg-logo="http://epg.one/img2/9303.png" tvg-rec="0",BOX Kosmo 4K HDR
 http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/31548/index.m3u8
-#EXTINF:0 group-title="HD" tvg-id="4766" tvg-logo="http://epg.one/img2/4766.png" tvg-rec="7",BCU Ultra 4K
+#EXTINF:0 group-title="4K" tvg-id="4766" tvg-logo="http://epg.one/img2/4766.png" tvg-rec="7",BCU Ultra 4K
 http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/11045/index.m3u8
 #EXTINF:0 group-title="4K" tvg-id="2743" tvg-logo="http://epg.one/img2/2743.png" tvg-rec="3",Ultra HD Cinema 4K
 http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/4000/index.m3u8
@@ -730,19 +730,19 @@ http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/20049/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/31657/index.m3u8
 #EXTINF:0 group-title="4K" tvg-id="8924" tvg-logo="http://epg.one/img2/8924.png" tvg-rec="0",Liberty Дрим Воркс 4K
 http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/31661/index.m3u8
-#EXTINF:0 group-title="кино" tvg-id="7993" tvg-logo="http://epg.one/img2/7993.png" tvg-rec="0",BOX Новогодний 4K
+#EXTINF:0 group-title="4K" tvg-id="7993" tvg-logo="http://epg.one/img2/7993.png" tvg-rec="0",BOX Новогодний 4K
 http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/16066/index.m3u8
-#EXTINF:0 group-title="кино" tvg-id="6205" tvg-logo="http://epg.one/img2/6205.png" tvg-rec="0",Liberty Кино ENG 4K
+#EXTINF:0 group-title="4K" tvg-id="6205" tvg-logo="http://epg.one/img2/6205.png" tvg-rec="0",Liberty Кино ENG 4K
 http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/17060/index.m3u8
-#EXTINF:0 group-title="кино" tvg-id="6231" tvg-logo="http://epg.one/img2/6231.png" tvg-rec="0",Liberty РусФильм 4K
+#EXTINF:0 group-title="4K" tvg-id="6231" tvg-logo="http://epg.one/img2/6231.png" tvg-rec="0",Liberty РусФильм 4K
 http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/18046/index.m3u8
-#EXTINF:0 group-title="кино" tvg-id="6394" tvg-logo="http://epg.one/img2/6394.png" tvg-rec="0",Liberty Семейный 4K
+#EXTINF:0 group-title="4K" tvg-id="6394" tvg-logo="http://epg.one/img2/6394.png" tvg-rec="0",Liberty Семейный 4K
 http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/18178/index.m3u8
-#EXTINF:0 group-title="кино" tvg-id="6232" tvg-logo="http://epg.one/img2/6232.png" tvg-rec="0",Liberty Мульт 4K
+#EXTINF:0 group-title="4K" tvg-id="6232" tvg-logo="http://epg.one/img2/6232.png" tvg-rec="0",Liberty Мульт 4K
 http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/18051/index.m3u8
-#EXTINF:0 group-title="кино" tvg-id="6206" tvg-logo="http://epg.one/img2/6206.png" tvg-rec="0",Liberty Мульт ENG 4K
+#EXTINF:0 group-title="4K" tvg-id="6206" tvg-logo="http://epg.one/img2/6206.png" tvg-rec="0",Liberty Мульт ENG 4K
 http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/17061/index.m3u8
-#EXTINF:0 group-title="кино" tvg-id="6341" tvg-logo="http://epg.one/img2/6341.png" tvg-rec="0",Liberty Куб 4K
+#EXTINF:0 group-title="4K" tvg-id="6341" tvg-logo="http://epg.one/img2/6341.png" tvg-rec="0",Liberty Куб 4K
 http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/18161/index.m3u8
 
 
