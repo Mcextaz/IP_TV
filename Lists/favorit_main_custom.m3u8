@@ -270,6 +270,10 @@ https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.ozonusercontent.com/s3/product-service-meta-media/9e7e4daf-2372-44ce-8e8d-df7e0d527c96.jpg" tvg-id="no_epg" group-title="Развлекательные", Monster Jam
 https://4b9627c7.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vbnN0ZXJKYW1fSExT/181665db-ea2b-4fef-94ec-11165e6244b4/0.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-id="5165" tvg-logo="http://epg.one/img2/5165.png" tvg-rec="7",MM Ситком HD
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/13052/index.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-id="6842" tvg-logo="http://epg.one/img2/6842.png" tvg-rec="0",MM OldSchool HD
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/19413/index.m3u8
 
 
 
@@ -542,8 +546,6 @@ https://autopilot.catcast.tv/content/44051/index.m3u8
 https://132544.edgevideo.ru/streams/132544_806129/1325441080/index.m3u8
 #EXTINF:-1 tvg-id="vhs-ka" group-title="VHS", VHS-ка HD
 http://158.160.149.81:8080/8270/index.m3u8
-#EXTINF:-1 tvg-logo="https://sun1-28.userapi.com/s/v1/ig2/QskYNOQspELa4M4U9R8ROD2c58C_xc-UxsooBHJMZZdy1qf2T9voHz4pBehKyirLPtlDlToYIiBuuZlCD-GUxjO_.jpg?quality=95&crop=49,49,400,400&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&cs=200x200" tvg-id="no_epg_cinema" group-title="VHS", VHDV TV
-https://132544.edgevideo.ru/streams/132544_932006/132544720/index.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="VHS",VHS-ка HD
 http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/5006/index.m3u8
 #EXTINF:-1 tvg-rec="7" group-title="VHS",VF VHS MIX
@@ -572,6 +574,8 @@ http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/11042/index.m3u8
 http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/11059/index.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="VHS",Dosug TV VHS
 http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/14225/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="VHS",Yosso TV VHS
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/14172/index.m3u8
 
 
 
@@ -606,7 +610,7 @@ http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/31718/index.m3u8
 http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/19286/index.m3u8
 #EXTINF:-1 group-title="сериалыРУС" tvg-id="6153" tvg-logo="http://epg.one/img2/6153.png" tvg-rec="0",VF Наша Раша
 http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/17010/index.m3u8
-#EXTINF:0 group-title="кино" tvg-id="5194" tvg-logo="http://epg.one/img2/5194.png" tvg-rec="0",VF Солдаты
+#EXTINF:0 group-title="сериалыРУС" tvg-id="5194" tvg-logo="http://epg.one/img2/5194.png" tvg-rec="0",VF Солдаты
 http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/13081/index.m3u8
 #EXTINF:-1 group-title="сериалыРУС" tvg-id="6357" tvg-logo="http://epg.one/img2/6357.png" tvg-rec="0",Триколор Солдаты
 http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/18130/index.m3u8
@@ -638,8 +642,6 @@ http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/15141/index.m3u8
 http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/10062/index.m3u8
 #EXTINF:-1 group-title="сериалыHQ" tvg-id="6150" tvg-logo="http://epg.one/img2/6150.png" tvg-rec="0",VF Друзья
 http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/17006/index.m3u8
-#EXTINF:-1 group-title="сериалыHQ" tvg-id="5165" tvg-logo="http://epg.one/img2/5165.png" tvg-rec="7",MM Ситком HD
-http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/13052/index.m3u8
 #EXTINF:-1 group-title="сериалыHQ" tvg-id="6159" tvg-logo="http://epg.one/img2/6159.png" tvg-rec="0",VF Доктор Хаус
 http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/17016/index.m3u8
 #EXTINF:-1 group-title="сериалыHQ" tvg-id="6323" tvg-logo="http://epg.one/img2/6323.png" tvg-rec="0",VF Игра престолов
@@ -704,6 +706,7 @@ http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/20163/index.m3u8
 #EXTGRP:Yosso TV
 http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/20164/index.m3u8
 #EXTINF:-1 tvg-rec="7",Yosso TV Best 60fps
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/20165/index.m3u8
 
 
 
@@ -772,8 +775,6 @@ http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/31637/index.m3u8
 http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/11122/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="6833" tvg-logo="http://epg.one/img2/6833.png" tvg-rec="0",BOX Zombie HD
 http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/19420/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="6842" tvg-logo="http://epg.one/img2/6842.png" tvg-rec="0",MM OldSchool HD
-http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/19413/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.iptv.rt.ru/images/ch4dk93mhk079s3jpo50.png" group-title="Кино и сериалы",Всё ТВ Трейлеры
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
@@ -1095,6 +1096,8 @@ https://sb-3.restream.su/preview/20001/61346f1c-4cc6-46e5-9f54-0d8c72188567/live
 https://sb-2.restream.su/preview/20015/b13b5ca1-5968-491d-b5d2-4d7abf636e73/live.m3u8
 #EXTINF:-1 tvg-logo="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_67b4c0d121533b09ed7fab53_67b4c0e83b63103f9b0e46e9/scale_1200" tvg-id="no_epg_cinema" group-title="Кинозалы", КИНО СБОРНИК
 https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
+#EXTINF:-1 tvg-logo="https://sun1-28.userapi.com/s/v1/ig2/QskYNOQspELa4M4U9R8ROD2c58C_xc-UxsooBHJMZZdy1qf2T9voHz4pBehKyirLPtlDlToYIiBuuZlCD-GUxjO_.jpg?quality=95&crop=49,49,400,400&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&cs=200x200" tvg-id="no_epg_cinema" group-title="Кинозалы", VHDV TV
+https://132544.edgevideo.ru/streams/132544_932006/132544720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", ВсёТВHD
 https://132544.edgevideo.ru/streams/132544_902681/132544720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", RED PREMIUM
