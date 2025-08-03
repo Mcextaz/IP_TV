@@ -650,42 +650,59 @@ http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/13001/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Yosso TV" tvg-id="5358" tvg-logo="http://epg.one/img2/5358.png" tvg-rec="0",Yosso TV Grand
-http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/14171/index.m3u8
-#EXTINF:-1 group-title="Yosso TV" tvg-id="5359" tvg-logo="http://epg.one/img2/5359.png" tvg-rec="0",Yosso TV VHS
-http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/14172/index.m3u8
-#EXTINF:-1 group-title="Yosso TV" tvg-id="5360" tvg-logo="http://epg.one/img2/5360.png" tvg-rec="0",Yosso TV Русские Фильмы
-http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/14174/index.m3u8
-#EXTINF:-1 group-title="Yosso TV" tvg-id="5361" tvg-logo="http://epg.one/img2/5361.png" tvg-rec="0",Yosso TV Советские Фильмы
-http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/14175/index.m3u8
-#EXTINF:-1 group-title="Yosso TV" tvg-id="5362" tvg-logo="http://epg.one/img2/5362.png" tvg-rec="0",Yosso TV New Кино
-http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/14177/index.m3u8
-#EXTINF:-1 group-title="Yosso TV" tvg-id="5363" tvg-logo="http://epg.one/img2/5363.png" tvg-rec="0",Yosso TV Music Hits
-http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/14179/index.m3u8
-#EXTINF:-1 group-title="Yosso TV" tvg-id="5434" tvg-logo="http://epg.one/img2/5434.png" tvg-rec="0",Yosso TV Трагичное
-http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/14219/index.m3u8
-#EXTINF:-1 group-title="Yosso TV" tvg-id="5444" tvg-logo="http://epg.one/img2/5444.png" tvg-rec="0",Yosso TV Забавное
-http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/14234/index.m3u8
-#EXTINF:-1 group-title="Yosso TV" tvg-id="5445" tvg-logo="http://epg.one/img2/5445.png" tvg-rec="0",Yosso TV Ковбойское
-http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/14235/index.m3u8
-#EXTINF:-1 group-title="Yosso TV" tvg-id="5446" tvg-logo="http://epg.one/img2/5446.png" tvg-rec="0",Yosso TV Best
-http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/14236/index.m3u8
-#EXTINF:-1 group-title="Yosso TV" tvg-id="5586" tvg-logo="http://epg.one/img2/5586.png" tvg-rec="0",Yosso TV Adrenaline
-http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/15105/index.m3u8
-#EXTINF:-1 group-title="Yosso TV" tvg-id="5631" tvg-logo="http://epg.one/img2/5631.png" tvg-rec="0",Yosso TV Thriller
-http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/15168/index.m3u8
-#EXTINF:-1 group-title="Yosso TV" tvg-id="5983" tvg-logo="http://epg.one/img2/5983.png" tvg-rec="0",Yosso TV Oblivion
-http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/15509/index.m3u8
-#EXTINF:-1 group-title="Yosso TV" tvg-id="5984" tvg-logo="http://epg.one/img2/5984.png" tvg-rec="0",Yosso TV Adventure
-http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/15510/index.m3u8
-#EXTINF:-1 group-title="Yosso TV" tvg-id="7152" tvg-logo="http://epg.one/img2/7152.png" tvg-rec="0",Yosso TV Мелодрама
-http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/19434/index.m3u8
-#EXTINF:-1 group-title="Yosso TV" tvg-id="7884" tvg-logo="http://epg.one/img2/7884.png" tvg-rec="0",Yosso TV Netflix
-http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/20163/index.m3u8
-#EXTINF:-1 group-title="Yosso TV" tvg-id="7885" tvg-logo="http://epg.one/img2/7885.png" tvg-rec="0",Yosso TV Disney
-http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/20164/index.m3u8
-#EXTINF:-1 group-title="Yosso TV" tvg-id="7886" tvg-logo="http://epg.one/img2/7886.png" tvg-rec="0",Yosso TV Best 60fps
-http://rhsbjv7k.tvclub.xyz/iptv/LHF87TM6L7GMRV/20165/index.m3u8
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/14161/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Grand
+#EXTGRP:Yosso TV
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/14171/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV VHS
+#EXTGRP:Yosso TV
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/14172/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Русские Фильмы
+#EXTGRP:Yosso TV
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/14174/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Советские Фильмы
+#EXTGRP:Yosso TV
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/14175/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV New Кино
+#EXTGRP:Yosso TV
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/14177/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Music Hits
+#EXTGRP:Yosso TV
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/14179/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Трагичное
+#EXTGRP:Yosso TV
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/14219/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Забавное
+#EXTGRP:Yosso TV
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/14234/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Ковбойское
+#EXTGRP:Yosso TV
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/14235/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Best
+#EXTGRP:Yosso TV
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/14236/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Adrenaline
+#EXTGRP:Yosso TV
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/15105/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Thriller
+#EXTGRP:Yosso TV
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/15168/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Oblivion
+#EXTGRP:Yosso TV
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/15509/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Adventure
+#EXTGRP:Yosso TV
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/15510/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Мелодрама
+#EXTGRP:Yosso TV
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/19434/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Netflix
+#EXTGRP:Yosso TV
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/20163/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Disney
+#EXTGRP:Yosso TV
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/20164/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Best 60fps
 
 
 
