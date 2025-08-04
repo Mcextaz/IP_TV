@@ -706,7 +706,30 @@ http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/20163/index.m3u8
 #EXTGRP:Yosso TV
 http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/20164/index.m3u8
 #EXTINF:-1 tvg-rec="7",Yosso TV Best 60fps
+#EXTGRP:Yosso TV
 http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/20165/index.m3u8
+#EXTINF:-1 tvg-rec="0",Yosso TV Nature
+#EXTGRP:Yosso TV
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/31618/index.m3u8
+#EXTINF:-1 tvg-rec="0",Yosso TV Travel
+#EXTGRP:Yosso TV
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/31619/index.m3u8
+#EXTINF:-1 tvg-rec="0",Yosso TV Food
+#EXTGRP:Yosso TV
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/31616/index.m3u8
+#EXTINF:-1 tvg-rec="0",Yosso TV Science
+#EXTGRP:Yosso TV
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/31617/index.m3u8
+#EXTINF:-1 tvg-rec="0",Yosso TV Kids
+#EXTGRP:Yosso TV
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/14173/index.m3u8
+#EXTINF:-1 tvg-rec="0",Yosso TV Союзмульт
+#EXTGRP:Yosso TV
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/14178/index.m3u8
+#EXTINF:-1 tvg-rec="0",Yosso TV Наше Детское
+#EXTGRP:Yosso TV
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/19433/index.m3u8
+
 
 
 
