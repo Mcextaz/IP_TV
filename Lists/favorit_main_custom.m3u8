@@ -1412,6 +1412,17 @@ http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/19414/index.m3u8
 http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/16053/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="6363" tvg-logo="http://epg.one/img2/6363.png" tvg-rec="0",Триколор Смешарики
 http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/18136/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Детские",VF VHS Cartoon
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/11118/index.m3u8
+#EXTINF:-1 tvg-rec="7",Yosso TV Disney
+#EXTGRP:Детские
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/20164/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="6232" tvg-logo="http://epg.one/img2/6232.png" tvg-rec="7",Liberty Мульт 4K
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/18051/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="6206" tvg-logo="http://epg.one/img2/6206.png" tvg-rec="7",Liberty Мульт ENG 4K
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/17061/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="6341" tvg-logo="http://epg.one/img2/6341.png" tvg-rec="7",Liberty Куб 4K
+http://26f2f4cd.amazzin.pw/iptv/DVLCNQPW5YSR36/18161/index.m3u8
 
 
 
